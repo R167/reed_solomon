@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require "reed_solomon"
 require "benchmark/ips"
 
